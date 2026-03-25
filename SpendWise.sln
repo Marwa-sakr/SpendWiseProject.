@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpendWise.Api", "SpendWise.Api\SpendWise.Api.csproj", "{AFD56149-96C7-4252-B3F7-76F55F77EA6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpendWise.Core", "SpendWise.Core\SpendWise.Core.csproj", "{F8B425CA-625D-4271-8B29-DEA65D063DED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpendWise.Tests", "SpendWise.Tests\SpendWise.Tests.csproj", "{EAE59679-97D2-4557-8347-C68F84E26374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD56149-96C7-4252-B3F7-76F55F77EA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD56149-96C7-4252-B3F7-76F55F77EA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD56149-96C7-4252-B3F7-76F55F77EA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD56149-96C7-4252-B3F7-76F55F77EA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B425CA-625D-4271-8B29-DEA65D063DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B425CA-625D-4271-8B29-DEA65D063DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B425CA-625D-4271-8B29-DEA65D063DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B425CA-625D-4271-8B29-DEA65D063DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE59679-97D2-4557-8347-C68F84E26374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE59679-97D2-4557-8347-C68F84E26374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE59679-97D2-4557-8347-C68F84E26374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE59679-97D2-4557-8347-C68F84E26374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
