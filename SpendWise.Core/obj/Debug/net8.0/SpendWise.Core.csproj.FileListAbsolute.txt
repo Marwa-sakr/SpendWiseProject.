@@ -1,11 +1,30 @@
-G:\توكلنا علي الله\SpendWiseProject\SpendWise.Core\bin\Debug\net8.0\SpendWise.Core.deps.json
-G:\توكلنا علي الله\SpendWiseProject\SpendWise.Core\bin\Debug\net8.0\SpendWise.Core.dll
-G:\توكلنا علي الله\SpendWiseProject\SpendWise.Core\bin\Debug\net8.0\SpendWise.Core.pdb
 G:\توكلنا علي الله\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\SpendWise.Core.GeneratedMSBuildEditorConfig.editorconfig
 G:\توكلنا علي الله\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\SpendWise.Core.AssemblyInfoInputs.cache
 G:\توكلنا علي الله\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\SpendWise.Core.AssemblyInfo.cs
 G:\توكلنا علي الله\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\SpendWise.Core.csproj.CoreCompileInputs.cache
+G:\توكلنا علي الله\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\SpendWise.Core.sourcelink.json
+G:\توكلنا علي الله\SpendWiseProject\SpendWise.Core\bin\Debug\net8.0\SpendWise.Core.deps.json
+G:\توكلنا علي الله\SpendWiseProject\SpendWise.Core\bin\Debug\net8.0\SpendWise.Core.runtimeconfig.json
+G:\توكلنا علي الله\SpendWiseProject\SpendWise.Core\bin\Debug\net8.0\SpendWise.Core.dll
+G:\توكلنا علي الله\SpendWiseProject\SpendWise.Core\bin\Debug\net8.0\SpendWise.Core.pdb
+G:\توكلنا علي الله\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\SpendWise.Core.csproj.AssemblyReference.cache
 G:\توكلنا علي الله\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\SpendWise.Core.dll
 G:\توكلنا علي الله\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\refint\SpendWise.Core.dll
 G:\توكلنا علي الله\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\SpendWise.Core.pdb
+G:\توكلنا علي الله\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\SpendWise.Core.genruntimeconfig.cache
 G:\توكلنا علي الله\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\ref\SpendWise.Core.dll
+G:\SpendWise\SpendWiseProject\SpendWise.Core\bin\Debug\net8.0\SpendWise.Core.deps.json
+G:\SpendWise\SpendWiseProject\SpendWise.Core\bin\Debug\net8.0\SpendWise.Core.runtimeconfig.json
+G:\SpendWise\SpendWiseProject\SpendWise.Core\bin\Debug\net8.0\SpendWise.Core.dll
+G:\SpendWise\SpendWiseProject\SpendWise.Core\bin\Debug\net8.0\SpendWise.Core.pdb
+G:\SpendWise\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\SpendWise.Core.csproj.AssemblyReference.cache
+G:\SpendWise\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\SpendWise.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\SpendWise\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\SpendWise.Core.AssemblyInfoInputs.cache
+G:\SpendWise\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\SpendWise.Core.AssemblyInfo.cs
+G:\SpendWise\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\SpendWise.Core.csproj.CoreCompileInputs.cache
+G:\SpendWise\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\SpendWise.Core.sourcelink.json
+G:\SpendWise\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\SpendWise.Core.dll
+G:\SpendWise\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\refint\SpendWise.Core.dll
+G:\SpendWise\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\SpendWise.Core.pdb
+G:\SpendWise\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\SpendWise.Core.genruntimeconfig.cache
+G:\SpendWise\SpendWiseProject\SpendWise.Core\obj\Debug\net8.0\ref\SpendWise.Core.dll

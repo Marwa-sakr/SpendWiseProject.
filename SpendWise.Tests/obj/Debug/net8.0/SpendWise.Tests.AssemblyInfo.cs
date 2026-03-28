@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpendWise.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf35aa504b225e46e599b4dd955df94c117da111")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpendWise.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpendWise.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

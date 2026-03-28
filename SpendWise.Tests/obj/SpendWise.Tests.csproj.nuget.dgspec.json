@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\توكلنا علي الله\\SpendWiseProject\\SpendWise.Tests\\SpendWise.Tests.csproj": {}
+    "G:\\SpendWise\\SpendWiseProject\\SpendWise.Tests\\SpendWise.Tests.csproj": {}
   },
   "projects": {
-    "G:\\توكلنا علي الله\\SpendWiseProject\\SpendWise.Core\\SpendWise.Core.csproj": {
+    "G:\\SpendWise\\SpendWiseProject\\SpendWise.Core\\SpendWise.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\توكلنا علي الله\\SpendWiseProject\\SpendWise.Core\\SpendWise.Core.csproj",
+        "projectUniqueName": "G:\\SpendWise\\SpendWiseProject\\SpendWise.Core\\SpendWise.Core.csproj",
         "projectName": "SpendWise.Core",
-        "projectPath": "G:\\توكلنا علي الله\\SpendWiseProject\\SpendWise.Core\\SpendWise.Core.csproj",
+        "projectPath": "G:\\SpendWise\\SpendWiseProject\\SpendWise.Core\\SpendWise.Core.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "G:\\توكلنا علي الله\\SpendWiseProject\\SpendWise.Core\\obj\\",
+        "outputPath": "G:\\SpendWise\\SpendWiseProject\\SpendWise.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -64,14 +80,14 @@
         }
       }
     },
-    "G:\\توكلنا علي الله\\SpendWiseProject\\SpendWise.Tests\\SpendWise.Tests.csproj": {
+    "G:\\SpendWise\\SpendWiseProject\\SpendWise.Tests\\SpendWise.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\توكلنا علي الله\\SpendWiseProject\\SpendWise.Tests\\SpendWise.Tests.csproj",
+        "projectUniqueName": "G:\\SpendWise\\SpendWiseProject\\SpendWise.Tests\\SpendWise.Tests.csproj",
         "projectName": "SpendWise.Tests",
-        "projectPath": "G:\\توكلنا علي الله\\SpendWiseProject\\SpendWise.Tests\\SpendWise.Tests.csproj",
+        "projectPath": "G:\\SpendWise\\SpendWiseProject\\SpendWise.Tests\\SpendWise.Tests.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "G:\\توكلنا علي الله\\SpendWiseProject\\SpendWise.Tests\\obj\\",
+        "outputPath": "G:\\SpendWise\\SpendWiseProject\\SpendWise.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +104,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "G:\\توكلنا علي الله\\SpendWiseProject\\SpendWise.Core\\SpendWise.Core.csproj": {
-                "projectPath": "G:\\توكلنا علي الله\\SpendWiseProject\\SpendWise.Core\\SpendWise.Core.csproj"
+              "G:\\SpendWise\\SpendWiseProject\\SpendWise.Core\\SpendWise.Core.csproj": {
+                "projectPath": "G:\\SpendWise\\SpendWiseProject\\SpendWise.Core\\SpendWise.Core.csproj"
               }
             }
           }
